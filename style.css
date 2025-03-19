@@ -1,0 +1,61 @@
+body{
+    text-align: center;
+    padding-top: 20px;
+    font-size: large;
+    background-color: white;
+}
+.stop{
+    width: 130px;
+    height: 130px;
+    background-color: grey;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-left: 700px;
+}
+.ready{
+    width: 130px;
+    height: 130px;
+    background-color: grey;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-left: 700px;
+}
+.go{
+    width: 130px;
+    height: 130px;
+    background-color:grey;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-left: 700px;
+}
+#btn1{
+
+    height: 50px;
+    width: 80px;
+    font-size: large;
+    background-color: red;
+    margin-bottom: 20px;
+}
+#btn2{
+    height: 100px;
+    width: 80px;
+    font-size: large;
+    background-color:yellow;
+    margin-bottom: 20px;
+}
+#btn3{
+    height: 50px;
+    width: 80px;
+    font-size: large;
+    margin-bottom: 20px;
+    background-color:green;
+}
+#Stop:hover{
+    cursor: pointer;
+}
+#Ready:hover{
+    cursor: pointer;
+}
+#Go:hover{
+    cursor: pointer;
+}
